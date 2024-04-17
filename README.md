@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @LemuelGempesao
 - 👀 I’m interested in Web Development Fundamentals...
-- 🌱 I’m currently learning  HTML CSS Javascript Python...
+
   <div>
     <h1 align="center">TECH STACK</h1>
-    <ul>
+    <ul align="center">
       <li>HTML</li>
       <li>CSS</li>
       <li>JAVASCRIPT</li>
