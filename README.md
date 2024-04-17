@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development Fundamentals...
 - 🌱 I’m currently learning  HTML CSS Javascript Python...
   <div>
-    <h1 style="text-align:center">TECH STACK</h1>
+    <h1 align="center">TECH STACK</h1>
     <ul>
       <li>HTML</li>
       <li>CSS</li>
